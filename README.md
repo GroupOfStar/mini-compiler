@@ -1,8 +1,6 @@
-# the-tutorial-super-tiny-compiler
+# mini-compiler
 
-the tutorial super tiny compiler
-
-基于 [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) 实现
+`mini-compiler` 是基于 [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) 的实现
 
 ## 前端为什么要了解编译原理
 
@@ -23,8 +21,3 @@ template 是如何编译成 render 函数的
 
 所以一个最好的学习方式就是先实现一个非常简单的 然后从简入深
 看得见摸得到的 demo 才能激发出兴趣来
-
-## 为什么有这个库
-
-这个库的代码是配套视频的
-对于编程教学的核心来讲 实现的过程才是最有价值的
